@@ -31,8 +31,21 @@ Focused on building **reliable, maintainable test frameworks** and ensuring soft
 ---
 
 ## 📌 Featured Projects
-> Selected automation and API testing projects demonstrating real-world testing scenarios  
-*(Projects will be added and refined here)*
+
+### 🔹 SauceDemo Web Automation Testing
+Automation testing framework for an e-commerce web application using **Selenium WebDriver**, **Java**, and **TestNG**.  
+Designed with a modular **Page Object Model (POM)** architecture, structured test execution (Smoke, Regression, E2E), and **Allure reporting**.
+
+🔗 https://github.com/MohamedKamal-eng/saucedemo-automation-testing
+
+---
+
+### 🔹 Trello API Testing (Manual & Automation)
+Comprehensive API testing project for **Trello Public REST APIs**, covering both **manual testing** using **Postman/Newman** and **automation** using **RestAssured**, **Java**, and **TestNG**.  
+Includes modular service-based design, model-driven payloads, and **end-to-end API workflows**.
+
+🔗 https://github.com/MohamedKamal-eng/trello-api-testing
+
 
 ---
 
